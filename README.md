@@ -20,15 +20,17 @@ Welcome to my digital playground! I'm a developer who thrives on problem-solving
 ---
 
 ## 🔥 42 Projects
-Here are some of my projects from 42 School:
+> 42KL is a revolutionary, tuition-free computer science school that transforms education through a peer-to-peer learning model and project-based approach, without traditional lectures or teachers.
 
-| Project Name | Description | Repository |
-|-------------|-------------|------------|
-| **Cub3D** | Simple 3D game engine using raycasting | [Repo](https://github.com/samueltingg/Cub3D) |
-| **Minishell** | A small shell implementation in C | [Repo](https://github.com/Zyeoh883/42_minishell) |
-| **FDF** | A program that renders a 3D wireframe model | [Repo](https://github.com/samueltingg/42-FDF) |
-| **Philosophers** | Multithreading project to simulate the dining philosophers problem | [Repo](https://github.com/samueltingg/The-Dining-Philosopher-Problem) |
-| **Push_Swap** | Sorting algorithm with stack manipulation | [Repo](https://github.com/samueltingg/42-Push_Swap) |
+Here are some of my projects from 42:
+
+| Project | Description |
+|-------------|-------------|
+| [**Cub3D**](https://github.com/samueltingg/Cub3D) | Simple 3D game engine using raycasting | 
+| [**Minishell**](https://github.com/Zyeoh883/42_minishell) | A small shell implementation in C |
+| [**FDF**](https://github.com/samueltingg/42-FDF) | A program that renders a 3D wireframe model |
+| [**Philosophers**](https://github.com/samueltingg/The-Dining-Philosopher-Problem) | Multithreading project to simulate the dining philosophers problem |
+| [**Push_Swap**](https://github.com/samueltingg/42-Push_Swap) | Sorting algorithm with stack manipulation |
 
 *...and many more! Check out my repos for the full list.*
 
