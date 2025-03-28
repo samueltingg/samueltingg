@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Samuel 👋
 
-Welcome to my GitHub! I'm a passionate developer exploring various technologies, especially in system programming, web development, and blockchain. Here, you'll find my projects, experiments, and open-source contributions.
+Welcome to my GitHub! I'm a passionate developer exploring various technologies, especially in system programming, web development, and blockchain.
 
 ---
 
