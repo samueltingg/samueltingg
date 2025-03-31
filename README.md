@@ -19,10 +19,7 @@ Welcome to my digital playground! I'm a developer who thrives on problem-solving
 
 ---
 
-## 🔥 42 Projects
-> 42KL is a revolutionary, tuition-free computer science school that transforms education through a peer-to-peer learning model and project-based approach, without traditional lectures or teachers.
-
-Here are some of my projects from 42:
+## 🔥 My Projects
 
 | Project | Description |
 |-------------|-------------|
