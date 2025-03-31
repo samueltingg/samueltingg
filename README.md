@@ -1,9 +1,6 @@
-# Hi there, I'm Samuel 👋
+# Hi there I am Samuel :)
 
-> "Code. Break. Learn. Repeat."  
-
-Welcome to my digital playground! I'm a developer who thrives on problem-solving, optimizing systems, and pushing boundaries. From low-level system programming to high-impact web applications, I love crafting solutions that are efficient, scalable, and future-proof. Explore my projects, break some code, and let's build something awesome. 💡
-
+Welcome to my digital playground! I'm a developer who thrives on problem-solving, optimizing systems, and pushing boundaries. Explore my projects, break some code, and let's build something awesome. 💡
 
 ---
 
