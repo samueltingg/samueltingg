@@ -32,6 +32,12 @@ Welcome to my digital playground! I'm a developer who thrives on problem-solving
 
 ---
 
+## Hackathon Projects
+
+| [**Decademy**](https://github.com/eesuhn/decademy) | A community-driven, decentralized learning platform | 
+|-------------|-------------|
+
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samueltingg&show_icons=true&theme=radical" height="165px" />
