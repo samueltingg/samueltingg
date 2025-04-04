@@ -1,4 +1,3 @@
-# Hi there I am Samuel :)
 
 Welcome to my digital playground! I'm a developer who loves problem-solving, optimizing systems, and pushing boundaries. I am a current student in [42 Kuala Lumpur](https://42kl.edu.my/), a revolutionary peer2peer coding school. Feel free to explore my projects!
 
