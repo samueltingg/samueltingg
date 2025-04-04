@@ -1,6 +1,6 @@
 # Hi there I am Samuel :)
 
-Welcome to my digital playground! I'm a developer who thrives on problem-solving, optimizing systems, and pushing boundaries. Explore my projects, break some code, and let's build something awesome. 💡
+Welcome to my digital playground! I'm a developer who loves problem-solving, optimizing systems, and pushing boundaries. I am a current student in [42 Kuala Lumpur](https://42kl.edu.my/), a revolutionary peer2peer coding school. Feel free to explore my projects!
 
 ---
 
@@ -22,10 +22,10 @@ Welcome to my digital playground! I'm a developer who thrives on problem-solving
 
 | Project | Description |
 |-------------|-------------|
-| [**Cub3D**](https://github.com/samueltingg/Cub3D) | Simple 3D game engine using raycasting | 
-| [**Minishell**](https://github.com/Zyeoh883/42_minishell) | A small shell implementation in C |
-| [**FDF**](https://github.com/samueltingg/42-FDF) | A program that renders a 3D wireframe model |
-| [**Philosophers**](https://github.com/samueltingg/The-Dining-Philosopher-Problem) | Multithreading project to simulate the dining philosophers problem |
+| [**Cub3D**](https://github.com/samueltingg/Cub3D) | Renders a dynamic view inside a 3D maze using 'Raycasting' | 
+| [**Minishell**](https://github.com/Zyeoh883/42_minishell) | Replicating 'bash' shell in C |
+| [**FDF**](https://github.com/samueltingg/42-FDF) | Renders a transformable 3D wirefram model |
+| [**Philosophers**](https://github.com/samueltingg/The-Dining-Philosopher-Problem) | Multithreading project that simulates 'The Dining Philosophers Problem' |
 | [**Push_Swap**](https://github.com/samueltingg/42-Push_Swap) | Sorting algorithm with stack manipulation |
 
 *...and many more! Check out my repos for the full list.*
@@ -54,4 +54,3 @@ Welcome to my digital playground! I'm a developer who thrives on problem-solving
 
 ---
 
-*📌 Feel free to explore my repositories and contribute!* 🚀
