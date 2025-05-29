@@ -27,7 +27,7 @@ Welcome to my digital playground! I'm a developer who loves problem-solving, opt
 | [**Philosophers**](https://github.com/samueltingg/The-Dining-Philosopher-Problem) | Multithreading project that simulates 'The Dining Philosophers Problem' |
 | [**Push_Swap**](https://github.com/samueltingg/42-Push_Swap) | Sorting algorithm with stack manipulation |
 
-*...and many more! Check out my repos for the full list.*
+*...and many more! Check out my [repos](https://github.com/samueltingg?tab=repositories) for the full list.*
 
 ---
 
