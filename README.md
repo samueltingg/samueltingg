@@ -21,6 +21,7 @@ Welcome to my digital playground! I'm a developer who loves problem-solving, opt
 
 | Project | Description |
 |-------------|-------------|
+| [**Webserver**](https://github.com/exellaz/webserv) | HTTP server in C++98 | 
 | [**Cub3D**](https://github.com/samueltingg/Cub3D) | Renders a dynamic view inside a 3D maze using 'Raycasting' | 
 | [**Minishell**](https://github.com/Zyeoh883/42_minishell) | Replicating 'bash' shell in C |
 | [**FDF**](https://github.com/samueltingg/42-FDF) | Renders a transformable 3D wirefram model |
