@@ -27,6 +27,7 @@ Welcome to my digital playground! I'm a developer who loves problem-solving, opt
 | [**FDF**](https://github.com/samueltingg/42-FDF) | Renders a transformable 3D wirefram model |
 | [**Philosophers**](https://github.com/samueltingg/The-Dining-Philosopher-Problem) | Multithreading project that simulates 'The Dining Philosophers Problem' |
 | [**Push_Swap**](https://github.com/samueltingg/42-Push_Swap) | Sorting algorithm with stack manipulation |
+| [**C++ Modules**](https://github.com/samueltingg/CPP-modules) | Object-0rientated Programming |
 
 *...and many more! Check out my [repos](https://github.com/samueltingg?tab=repositories) for the full list.*
 
