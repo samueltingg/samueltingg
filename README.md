@@ -22,7 +22,7 @@ Welcome to my digital playground! I'm a developer who loves problem-solving, opt
 
 ---
 
-## 🔥 My Projects
+## 🔥 Featured Projects
 
 | Project | Description |
 |-------------|-------------|
