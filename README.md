@@ -40,8 +40,11 @@ Welcome to my digital playground! I'm a developer who loves problem-solving, opt
 
 ## Hackathon Projects
 
-| [**Decademy**](https://github.com/eesuhn/decademy) | A community-driven, decentralized learning platform | 
-|-------------|-------------|
+| Project | Description |
+|---------|-------------|
+| [**AmDash**](https://github.com/colin-woon/ambank_hackathon_2025) | AI-powered Ticketing System |
+| [**Decademy**](https://github.com/eesuhn/decademy) | A community-driven, decentralized learning platform |
+
 
 
 ## 📊 GitHub Stats
